@@ -1,5 +1,4 @@
 # Data Professionals Survey Insights
-# Data Professionals Survey Insights
 ## Context:
 The survey aims to capture insights into the participants' current roles, career trajectories, salary levels, preferred programming languages, and their overall satisfaction with various aspects of their positions.
 
